@@ -1,4 +1,10 @@
-# WIP
+# ~~WIP~~
+
+![Development abandoned](https://img.shields.io/badge/development-abandoned-%23F7CA88.svg?labelColor=585858&style=for-the-badge&logoColor=FFFFFF "Development abandoned")
+
+Use [Nix](https://nixos.org) instead.
+
+---
 
 A "all for one" package manager, a package manager wrapper that works on any distro that finds and matches an exact package between the package manager using [Repology](https://repology.org).
 
